@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple.git"
+    "url": "https://github.com/llapps/cordova-plugin-admob-simple.git"
   },
   "bugs": {
-    "url": "https://github.com/sunnycupertino/cordova-plugin-admob-simple/issues"
+    "url": "https://github.com/llapps/cordova-plugin-admob-simple/issues"
   },
   "keywords": [
     "cordova",
